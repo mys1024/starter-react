@@ -15,4 +15,5 @@
 
 - After modifying code files, run `pnpm lint:fix [PATH]...` to try to automatically fix lint issues in the modified files. If any issues cannot be fixed automatically, fix them manually.
 - After modifying code files, run `pnpm fmt [PATH]...` to format the modified files.
+- After modifying code files, run `pnpm typecheck` to check types.
 - After modifying code files, you do not need to build the project or run the development server.
